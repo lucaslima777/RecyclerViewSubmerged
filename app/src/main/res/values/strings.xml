@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="sample">Sample</string>
+    <string name="title_main">RecycleViews</string>
+    <string name="list_primary">List Primary</string>
+    <string name="item">Item</string>
+    <string name="sublist">SubList</string>
+    <string name="recycle_in_recycle">Recycle in Recycle</string>
+</resources>
